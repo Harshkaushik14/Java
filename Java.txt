@@ -1,0 +1,3 @@
+Package:-
+
+   A Package in Java is used to group related classes or in other words you can say a package is a folder in a file directory.
